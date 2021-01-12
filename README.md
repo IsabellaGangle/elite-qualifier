@@ -1,25 +1,25 @@
 #elite qualifier
 
-Simple (or clever and funny?) description
+Yes, this is a description. This description is going to be like the Lorem Ispsim thing that is in the google doc templates. I was going to do that, but it occured to me that I don't know latin, I only know spanish. Donde esta el bano. That meant, 'where is the bathroom'. I only learned it just this last year, my grandma never taught me the tourist stuff, just how to cook and a bunch of spanish slang.
 
 ## Table of Contents
 
-- [Background](#background)
+- [Background](#This is the background)
 
-- [Install](#install)
+- [Install](#This is the install)
 
-- [Usage](#usage)
+- [Usage](#This is the usage)
 
 ## Background
 
-This is why this application exists.
+This is the background of my app. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+This is how you run the app that I have created
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+This is the steps of how to actually use the app that I have created. It wouldn't be good if you didn't know how to use the app.
 
 ### Any optional sections
