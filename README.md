@@ -23,3 +23,10 @@ This is how you run the app that I have created
 This is the steps of how to actually use the app that I have created. It wouldn't be good if you didn't know how to use the app.
 
 ### Any optional sections
+
+
+## Test Plan
+
+To test the project:
+1. Run the test
+2. Check the results
